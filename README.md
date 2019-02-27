@@ -9,3 +9,4 @@
 
 </body>
 </html> 
+//Using document.write() after an HTML document is loaded, will delete all existing HTML://
